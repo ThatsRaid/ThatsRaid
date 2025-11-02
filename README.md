@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - **🌍 Location:** Ukraine, Rivne
 - **💻 I specialize in:** Building applications and solving problems
-- **🎯 My goal:** To change the world :)
+- **🎯 My goal:** To get a job :)
 - **🔭 Currently Working On:** EasyScript & BytesUnion
 
 ## 📫 How to Reach Me
